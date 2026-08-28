@@ -1,0 +1,17 @@
+# Video (input personali e output generati: pesanti, non versionati)
+*.mp4
+*.mov
+*.avi
+*.mkv
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.claude/
